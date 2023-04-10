@@ -4,6 +4,10 @@ I am Akshat Dubey and my team consisted of me and my teammate <a href = "https:/
 
 Upon the request of participants, I am making the presentation public. 
 
+
+
+![alt text](https://github.com/dubeyakshat07/EXL-EQ-2022-National-Winner/blob/main/EXL%20EQ%20Analytics%20Final%20Poster.jpeg)
+
 ********
 
 <h1> Problem Statement </h1>
