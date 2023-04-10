@@ -1,6 +1,6 @@
 # EXL-EQ-2022-National-Winner
 
-I am Akshat Dubey and my team consisted of me and my teammate <a href = "https://www.linkedin.com/in/rohit-singh-rathaur/">Rohit Sing Rathaur</a> This repository contains the deliverables for the last year EXL EQ 2022. My team (Cosmotic Hunters) was the National Winner of the EXL EQ - 2022. 
+I am Akshat Dubey and my team consisted of me and my teammate <a href = "https://www.linkedin.com/in/rohit-singh-rathaur/">Rohit Sing Rathaur</a>. This repository contains the deliverables for the last year EXL EQ 2022 competition. My team (Cosmotic Hunters) was the National Winner of the EXL EQ - 2022. 
 
 Upon the request of participants, I am making the presentation public. 
 
